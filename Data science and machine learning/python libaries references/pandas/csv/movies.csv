@@ -1,0 +1,6 @@
+Title,Genre,Release Year,Rating,Revenue (Millions),Director
+Movie1,Action,1998,8.5,150,Director1
+Movie2,Comedy,2005,7.2,80,Director2
+Movie3,Drama,2012,6.8,120,Director3
+Movie4,Action,2008,9.0,,Director1
+Movie5,Thriller,2015,5.5,NaN,Director4
