@@ -1,0 +1,7 @@
+seller service
+mysql: 3308
+localhost: 8000
+
+customer service
+mysql: 3309
+locahost: 8001

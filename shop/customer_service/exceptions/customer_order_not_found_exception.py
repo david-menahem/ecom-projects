@@ -1,0 +1,3 @@
+class CustomerOrderNotFoundException(Exception):
+    pass
+

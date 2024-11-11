@@ -1,0 +1,4 @@
+1: in  postman open url localhost:8000/{artist}
+2: use get method
+3: check 3 diffirent names of artists
+4: check a name of an artist than does not exist

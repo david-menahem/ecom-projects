@@ -2,12 +2,13 @@ from typing import Optional
 
 from pydantic import BaseModel
 
+from model.customer_status import CustomerStatus
 
-class User(BaseModel):
+
+class Customer(BaseModel):
     id: Optional[int] = None
-    username: str
     first_name: str
     last_name: str
-    hashed_password: str
-    is_active: bool = True
+    email: str
+    status: CustomerStatus
 
